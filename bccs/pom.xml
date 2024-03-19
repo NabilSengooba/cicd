@@ -47,6 +47,15 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+<!--mysql driver -->
+	<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>YourDesiredVersion</version>
+</dependency>
+
+
+
 	<!-- For Working with Json Web Tokens (JWT) -->
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
